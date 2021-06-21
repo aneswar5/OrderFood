@@ -46,7 +46,6 @@
 
 
  @media only screen and (max-width: 600px){
-   /* child1 col-6 col-3 client */
   .child1{
     width: 100%;
     padding: 0 30px;
@@ -58,25 +57,3 @@
     margin: 20px 0;
   }
 }
-
-/* @media only screen and (max-width: 1300px) and (min-width: 801px){
-  .child1{
-    width: 100%;
-    padding: 0 30px;
-  }
-  .client{
-    text-align: center;
-  }
- }
- @media only screen and (max-width: 800px) {
-  .child1{
-    width: 100%;
-    padding: 0 30px;
-  }
-  .client{
-    margin: 20px 0;
-  }
-  .client, h1{
-    font-style: 30px;
-  }
-} */

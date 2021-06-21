@@ -59,15 +59,6 @@
   }
 
   @media only screen and (max-width:1300px) and (min-width: 601px){
-    /* .main_offer{
-      width: 100%;
-      height: auto; */
-      /* background-repeat: no-repeat; */
-      /* background-size: cover; */
-      /* background-attachment: fixed; */
-    /* } */
-    
-    
     .child1{
       width: 100%;
       /* padding: 0 30px; */
@@ -75,22 +66,4 @@
     .main_offer h1{
       font-size: 40px;
     }
-    /* .offer_text{ */
-      /* height: 450px;
-      width: 400px;
-      display: flex; */
-      /* align-items: center; */
-      /* justify-content: center; */
-      /* margin: 0 auto;
-      color: #fff; */
-    /* } */
   }
-
-  /* .offer_text{
-    height: auto;
-    width: 100%; */
-    /* display: flex; */
-    /* align-items: center; */
-    /* justify-content: center; */
-    /* margin: 0 auto; */
-  /* } */

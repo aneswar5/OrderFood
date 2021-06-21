@@ -5,7 +5,6 @@ import './style.css';
 export default function Menu() {
   return (
     <div className="main_header">
-      {/* banner, banner__content, container, banner__text */}
       <Navbar />
       <div className="header_first">
         <div className="child1">
