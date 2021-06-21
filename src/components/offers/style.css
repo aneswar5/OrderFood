@@ -1,0 +1,96 @@
+.offer_button {
+    margin-top: 30px;
+  }
+  
+  .main_offer{
+    width: 100%;
+    height: 450px;
+    background: url("https://restaurantindia.s3.ap-south-1.amazonaws.com/s3fs-public/content9442.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+  .offer_text{
+    height: 450px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    color: #fff;
+  }
+  
+  .offer_text h1{
+    font-size: 40px;
+    line-height: 50px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 0.5px;
+  }
+
+  .child1 {
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .button {
+    text-decoration: none;
+    border: none;
+    outline: none;
+    color: white;
+    font-weight: 700;
+    border-radius: 30px;
+    font-size: 12px;
+    padding: 20px 40px;
+  }
+  .inner_button{
+    background-color: rgb(255, 69, 79);
+  }
+  @media only screen and (max-width:600px) {
+    .child1{
+      width: 100%;
+      padding: 0 30px;
+    }
+    .main_offer h1{
+      font-size: 22px;
+    }
+  }
+
+  @media only screen and (max-width:1300px) and (min-width: 601px){
+    /* .main_offer{
+      width: 100%;
+      height: auto; */
+      /* background-repeat: no-repeat; */
+      /* background-size: cover; */
+      /* background-attachment: fixed; */
+    /* } */
+    
+    
+    .child1{
+      width: 100%;
+      /* padding: 0 30px; */
+    }
+    .main_offer h1{
+      font-size: 40px;
+    }
+    /* .offer_text{ */
+      /* height: 450px;
+      width: 400px;
+      display: flex; */
+      /* align-items: center; */
+      /* justify-content: center; */
+      /* margin: 0 auto;
+      color: #fff; */
+    /* } */
+  }
+
+  /* .offer_text{
+    height: auto;
+    width: 100%; */
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* margin: 0 auto; */
+  /* } */
